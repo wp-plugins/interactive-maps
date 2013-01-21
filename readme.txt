@@ -8,7 +8,7 @@ Stable tag:
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Includes an HTML5, JavaScript-powered map of the world with hoverable continents and location markers. This map can be downloaded and customized easily using a text editor. Upon customization, the map can be easily uploaded to WordPress and inserted into a post or page using this plugin.
+Add an HTML5, JavaScript-powered map of the world with hoverable continents and location marker to your WordPress site.
 
 == Description ==
 
@@ -25,22 +25,4 @@ Includes an HTML5, JavaScript-powered map of the world with hoverable continents
 7.  Upload the mapdata.js and continentmap.js files using the upload buttons.
 8.  Paste [simplemaps] into the post/page where you want the map to be located.
 9.  Publish/Preview your post and your map should be visible.
-
-== Frequently asked questions ==
-
-
-
-== Screenshots ==
-
-
-
-== Changelog ==
-
-
-
-== Upgrade notice ==
-
-
-
-== Arbitrary section 1 ==
 
