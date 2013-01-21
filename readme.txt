@@ -4,11 +4,11 @@ Donate link: http://simplemaps.com
 Tags: interactive maps, html5 world map, javascript world map, non-flash world map, interactive world map
 Requires at least: 2.5
 Tested up to: 3.4
-Stable tag: 0.1
+Stable tag: 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Includes an HTML5, JavaScript-powered map of the world with hoverable continents and location markers.
+Add an HTML5, JavaScript-powered map of the world with hoverable continents and location marker to your WordPress site.
 
 == Description ==
 
@@ -25,5 +25,4 @@ Includes an HTML5, JavaScript-powered map of the world with hoverable continents
 7.  Upload the mapdata.js and continentmap.js files using the upload buttons.
 8.  Paste [simplemaps] into the post/page where you want the map to be located.
 9.  Publish/Preview your post and your map should be visible.
-
 
