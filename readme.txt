@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Add an HTML5, JavaScript-powered map of the world with hoverable continents and location marker to your WordPress site.
 
 == Description ==
-
+<a href="http://simplemaps.com"><img src="http://simplemaps.com/img/logo.png" /><a/>
 Includes an HTML5, JavaScript-powered map of the world with hoverable continents and location markers. This map can be downloaded and customized easily using a text editor. Upon customization, the map can be easily uploaded to WordPress and inserted into a post or page using this plugin.
 
 == Installation ==
