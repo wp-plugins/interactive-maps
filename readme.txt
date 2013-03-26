@@ -16,6 +16,7 @@ Includes an HTML5, JavaScript-powered map of the world with hoverable continents
 
 == Screenshots ==
 
+Forthcoming
 
 
 
