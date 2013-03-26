@@ -1,7 +1,7 @@
 === Interactive Maps ===
 Contributors: simplemaps
 Donate link: http://simplemaps.com
-Tags: interactive maps, html5 world map, javascript world map, non-flash world map, interactive world map
+Tags: maps, interactive, html5 map, javascript map, flash map, map, non-flash map, interactive map
 Requires at least: 2.5
 Tested up to: 3.4
 Stable tag: 
