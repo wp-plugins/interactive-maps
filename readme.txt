@@ -1,10 +1,10 @@
 === Interactive Maps ===
 Contributors: simplemaps
 Donate link: http://simplemaps.com
-Tags: interactive maps, html5 world map, javascript world map, non-flash world map, interactive world map
+Tags: maps, interactive, html5 map, javascript map, flash map, map, non-flash map, interactive map
 Requires at least: 2.5
 Tested up to: 3.4
-Stable tag: 0.2
+Stable tag: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,11 @@ Add an HTML5, JavaScript-powered map of the world with hoverable continents and 
 == Description ==
 
 Includes an HTML5, JavaScript-powered map of the world with hoverable continents and location markers. This map can be downloaded and customized easily using a text editor. Upon customization, the map can be easily uploaded to WordPress and inserted into a post or page using this plugin.
+
+== Screenshots ==
+
+
+
 
 == Installation ==
 
