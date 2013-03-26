@@ -4,7 +4,7 @@ Donate link: http://simplemaps.com
 Tags: maps, interactive, html5 map, javascript map, flash map, map, non-flash map, interactive map
 Requires at least: 2.5
 Tested up to: 3.4
-Stable tag: 
+Stable tag: .3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
