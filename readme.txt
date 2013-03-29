@@ -1,6 +1,8 @@
 === Interactive Maps ===
 Contributors: simplemaps
 Donate link: http://simplemaps.com
+Author URI: http://simplemaps.com
+Plugin URI: http://simplemaps.com
 Tags: maps, interactive, html5 map, javascript map, flash map, map, non-flash map, interactive map
 Requires at least: 2.5
 Tested up to: 3.4
