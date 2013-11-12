@@ -16,7 +16,7 @@ Includes an HTML5, JavaScript-powered map of the world with hoverable continents
 
 == Screenshots ==
 
-1. An example of the map.
+1. An example of the map:
 
 == Installation ==
 
