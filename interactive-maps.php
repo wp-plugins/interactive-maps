@@ -8,10 +8,6 @@ Author URI: http://simplemaps.com
 Version: 0.3
 */
 
-function plugin_test(){
-	echo 'hello world'; exit;
-}
-
 // add_action('admin_head', 'plugin_test');
 
 /***************************************************************************************
