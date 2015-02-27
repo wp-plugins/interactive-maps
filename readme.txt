@@ -1,9 +1,9 @@
-=== Interactive World Map ===
+=== HTML5 World Map ===
 Contributors: simplemaps
 Donate link: http://simplemaps.com
-Tags: clickable map, continent, dealer map, html5 map, interactive map, javascript, map, maps, svg map, world
+Tags: clickable map, continent, html5 world map, html5 map, interactive map, javascript, map, maps, svg map, world
 Requires at least: 2.5
-Tested up to: 3.4
+Tested up to: 4.1
 Stable tag: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
