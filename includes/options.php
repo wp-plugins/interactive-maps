@@ -54,7 +54,7 @@ $mapfile_url = get_option('simplemaps_mapfile_url');
 		 echo
 '
 	<ol>
-		<li>Download the included World Continent map (<a href="http://simplemaps.com/free/html5continentmapv1.4.zip">here</a>).</li>
+		<li>Download the included World Continent map (<a href="http://simplemaps.com/free/html5continentmapv2.1.zip">here</a>).</li>
 		<li>Unzip the map and open the folder.</li>
 		<li>Customize the map on your computer by editing the mapdata.js file and refreshing the test.html file.</li>
 		<li>Upload the files for your map <span style="color: red">(one at a time)</span>:</li>
