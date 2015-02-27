@@ -1,7 +1,7 @@
-=== Interactive Maps ===
+=== Interactive World Map ===
 Contributors: simplemaps
 Donate link: http://simplemaps.com
-Tags: maps, interactive, html5 map, javascript map, flash map, map, non-flash map, interactive map
+Tags: clickable map, continent, dealer map, html5 map, interactive map, javascript, map, maps, svg map, world
 Requires at least: 2.5
 Tested up to: 3.4
 Stable tag: 0.3
