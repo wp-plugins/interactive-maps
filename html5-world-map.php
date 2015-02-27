@@ -5,12 +5,8 @@ Plugin URI: http://simplemaps.com/wordpress
 Description:  Easily add a World Continent JavaScript-powered HTML5 interactive map to your WordPress site.
 Author:  Simplemaps.com
 Author URI: http://simplemaps.com
-Version 0.3
+Version: 0.3
 */
-
-function plugin_test(){
-	echo 'hello world'; exit;
-}
 
 // add_action('admin_head', 'plugin_test');
 
